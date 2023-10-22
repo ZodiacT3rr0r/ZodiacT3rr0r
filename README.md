@@ -6,7 +6,7 @@
 - Previously: Studied at Rustomjee Cambridge International School and Junior College.
 
 <h2>Academics:</h2>
-<i>Completed IGCE with 4 A*s 1 A.</i>
+<i>Completed IGCSE with 4 A*s 1 A.</i>
 
 <i>Completed AS and A Level with 2 A*s 1 A and 2 Cs.</i>
 
