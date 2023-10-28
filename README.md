@@ -2,7 +2,7 @@
 <h2>I am Dhrushit Jain</h2>
 
 
-- Currently: Studying at Atal Bihari Vajpayee IIITM Gwalior, Btech in Computer Science Engineering.
+- Currently: Studying at Atal Bihari Vajpayee Indian Institute of Information technology and Management Gwalior, Btech in Computer Science Engineering.
 - Previously: Studied at Rustomjee Cambridge International School and Junior College.
 
 <h2>Academics:</h2>
