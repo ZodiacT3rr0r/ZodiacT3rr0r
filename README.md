@@ -22,10 +22,13 @@ Tech: React, Motion.js, TailwindCSS
 - Backend: Node.js, Express.js, MongoDB
 - Tools: Git, Figma, VS Code, Postman
 
-<h2>Academics:</h2>
+<h2>🌐 Socials:</h2>
 
-- Currently: Studying at Atal Bihari Vajpayee Indian Institute of Information technology and Management Gwalior, Btech in Computer Science Engineering.
-- Previously: Studied at Rustomjee Cambridge International School and Junior College.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/dhrushitjain)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?logo=githubpages&logoColor=white&style=flat)](https://cubinguy.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:dhrushitjain@gmail.com)
+
+
 
 
 <!---
