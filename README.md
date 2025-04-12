@@ -1,7 +1,7 @@
 <h2>Hey!!! (👉ﾟヮﾟ)👉</h2>
 
-- 🎓 Sophomore at IIIT Gwalior | 💻 Frontend Developer | Competitive Programmer
-- 🎯
+- 🎓 Sophomore at IIIT Gwalior | 💻 Frontend Developer | 🏆 Competitive Programmer
+- 🧠 Interested in problem-solving, system design & competitive programming  
 - 📫 How to reach me dhrushitjain@gmail.com
 
 <h2>📌 Featured Projects:</h2>
@@ -9,6 +9,10 @@
 🔗 [Routing Protocol Visualizer](https://github.com/yourusername/link-state-routing)  
 Visual simulation of network routing protocols.  
 Tech: React, Motion.js
+
+🔗 [Cuborithms](https://github.com/yourusername/link-state-routing)  
+A visual trainer for learning and mastering speed-cubing
+Tech: React, Motion.js, TailwindCSS
 
 
 <h2>💻 Tech Stack:</h2>
